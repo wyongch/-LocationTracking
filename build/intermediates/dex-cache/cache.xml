@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidDevelop\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_f54c8012bfe8531589f6afd901cea037ac30987b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_68f2ef0bd4848fde2f435fdbd5920cd7397a7a43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\baidumapapi_radar_v4_3_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fc076f176eb31a019a30c9e335c4b2960abfbc2">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_radar_v4_3_1_d04b3c41ac897f73955ef994927750e10ffec4ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\oliva\.android\build-cache\25fd23df0740b5d614200a2858daebcac2bc27b2\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_367d5bb06eb6adac15ab86b43c335aa52c1f15d4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="253457b5a19a836ae87aa4a6277c5819a4cbf053">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_59432b15740b710236ff61a7a87cd772745ed3cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\baidumapapi_cloud_v4_3_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d24c8d407f1506d4216d899ae8dc24e78ca00d03">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_cloud_v4_3_1_825ec9538c91ff6b88d1c52b993ee10563bc541b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\oliva\.android\build-cache\25fd23df0740b5d614200a2858daebcac2bc27b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\classes_edd7da7ab5512aab1133220d10173688cdaa59f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\baidumapapi_radar_v4_3_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fc076f176eb31a019a30c9e335c4b2960abfbc2">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_radar_v4_3_1_d04b3c41ac897f73955ef994927750e10ffec4ae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_6.13_92415b3b6ea809e399e017352aece393c2777f73\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\baidumapapi_cloud_v4_3_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d24c8d407f1506d4216d899ae8dc24e78ca00d03">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_cloud_v4_3_1_825ec9538c91ff6b88d1c52b993ee10563bc541b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\baidumapapi_util_v4_3_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f35f848bd2d9c4fadaa9410b4de1756c58cc7bfd">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_util_v4_3_1_0eef309ab1bda88326ab54947cc6823320cbad54\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\baidumapapi_search_v4_3_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e6645eba59f74b0fca84ce7d26f8bdc7160764e">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_search_v4_3_1_50598a3aeab0b9f04c573cad69eb8551cb95068a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\baidumapapi_util_v4_3_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f35f848bd2d9c4fadaa9410b4de1756c58cc7bfd">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_util_v4_3_1_0eef309ab1bda88326ab54947cc6823320cbad54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\oliva\.android\build-cache\565de025e887069425c65ef15bc71a1f16cd1d8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\classes_18f90f0b6ada0472fd03ca386d950c8cc6c09a0e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\baidumapapi_search_v4_3_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e6645eba59f74b0fca84ce7d26f8bdc7160764e">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_search_v4_3_1_50598a3aeab0b9f04c573cad69eb8551cb95068a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\baidumapapi_base_v4_3_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd351c75a2320b69d34b4e8f02c1b3bc029265ec">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_base_v4_3_1_8e704b844b05afb72340a654c2c7a39ffe7ffc0f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\baidumapapi_base_v4_3_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd351c75a2320b69d34b4e8f02c1b3bc029265ec">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_base_v4_3_1_8e704b844b05afb72340a654c2c7a39ffe7ffc0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\baidumapapi_map_v4_3_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c28d81ba8665fd2f5176a218f4829e7457fb0276">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_map_v4_3_1_df96fe38b2dcce93c9fd3139aefcd57f58717236\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\locSDK_6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\locSDK_6.13_92415b3b6ea809e399e017352aece393c2777f73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\libs\baidumapapi_map_v4_3_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c28d81ba8665fd2f5176a218f4829e7457fb0276">
+        <dex dex="F:\AndroidStudioProjects\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMap_AndroidSDK_v4.3.1_Sample\BaiduMapsApiASDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_map_v4_3_1_df96fe38b2dcce93c9fd3139aefcd57f58717236.jar" />
+    </item>
+
+</items>
